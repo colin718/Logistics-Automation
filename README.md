@@ -4,7 +4,7 @@
 스마트스토어 판매자들이 엑셀 작업으로 겪는 **송장 입력 실수와 누락 문제를 해결**하기 위해 개발한 자동화 프로그램입니다.
 **실제 셀러들에게 배포**하여 피드백을 반영했으며, 불법 사용 방지를 위한 **라이선스 서버(구글 시트 연동)**까지 구축했습니다.
 
-### 사용 기술 (Tech Stack)
+### 사용 기술
 * **Language:** Python 3.9
 * **GUI:** Tkinter (CustomTkinter)
 * **Data:** Pandas (Excel Parsing & Mapping)
